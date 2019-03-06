@@ -1,7 +1,7 @@
 .create-form {
     padding: 5px;
     margin: 5px;
-    background-color: #cc883e;
+    background-color: #bd7db6;
   }
   
   label {
@@ -11,10 +11,16 @@
   .create-update-form {
     padding: 5px;
     margin: 5px;
-    background: rgb(243, 219, 124);
+    background: rgb(137, 102, 168);
   }
   
   .form-group {
     margin-bottom: 5px;
+  }
+
+  body {
+    background-color: rgb(224, 195, 226);
+    text-align: center;
+   
   }
   
