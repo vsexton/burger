@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vsexton/friend-finder.git"
+    "url": "git+https://github.com/vsexton/burger.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vsexton/friend-finder/issues"
+    "url": "https://github.com/vsexton/burger/issues"
   },
-  "homepage": "https://github.com/vsexton/friend-finder#readme"
+  "homepage": "https://github.com/vsexton/burger#readme"
 }
